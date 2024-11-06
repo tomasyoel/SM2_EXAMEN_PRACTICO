@@ -26,6 +26,6 @@ Este proyecto incluye dos funcionalidades clave: **Gestión de Negocios** y **Ag
 ## Enlaces y Referencias
 - **Firebase**: Utilizado para almacenar imágenes y autenticar usuarios. [Firebase](https://firebase.google.com/)
 - **Flutter**: Framework de desarrollo utilizado. [Flutter](https://flutter.dev/)
-- **GitHub Repository**: [SM2_EXAMEN_PRACTICO](https://github.com/usuario/SM2_EXAMEN_PRACTICO)
+- **GitHub Repository**: [SM2_EXAMEN_PRACTICO](https://github.com/tomasyoel/SM2_EXAMEN_PRACTICO/tree/main)
 
 
