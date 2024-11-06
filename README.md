@@ -28,9 +28,4 @@ Este proyecto incluye dos funcionalidades clave: **Gestión de Negocios** y **Ag
 - **Flutter**: Framework de desarrollo utilizado. [Flutter](https://flutter.dev/)
 - **GitHub Repository**: [SM2_EXAMEN_PRACTICO](https://github.com/usuario/SM2_EXAMEN_PRACTICO)
 
----
-
-## Notas
-- Asegúrate de que el repositorio contenga las carpetas y archivos necesarios.
-- Para cualquier modificación, sigue el estándar de commits para una mejor organización y rastreo.
 
